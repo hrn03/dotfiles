@@ -1,0 +1,5 @@
+# Kittyの自動生成テーマ設定を除外
+.config/kitty/dark-theme.auto.conf
+
+# Neovimのバックアップディレクトリを除外
+.config/nvim.20[0-9][0-9]-*
