@@ -1,3 +1,11 @@
+# original zsh command
+if [ -d ~/.zsh_custom ]; then
+    for f in ~/.zsh_custom/*.zsh; do
+        source "$f"
+    done
+fi
+peeking_cat
+
 # ==============================
 # Powerlevel10k Instant Prompt
 # ==============================
