@@ -8,6 +8,8 @@ My configuration files for MacOS & zsh.
 
 When the terminal starts, a cat peeks out from the bottom of the screen to greet you.
 
+https://github.com/user-attachments/assets/887f941f-a091-4b92-9367-22cb1920dddf
+
 ## Recommended Commands
 
 ```bash
